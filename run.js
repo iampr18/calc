@@ -1,14 +1,14 @@
 let a = 5;
 let b = 10;
 
-
-let sum = a+b;
-let sub = a-b;
+let sum = a + b;
+let sub = a - b;
 let mul = a * b;
-let div = a/b;
+let div = a / b;
+let sqrt = a ^ 2;
 
 console.log("Sum = ", sum);
 console.log("Sub = ", sub);
 console.log("mul =", mul);
-console.log("devide= " ,div);
-
+console.log("devide= ", div);
+console.log("sqrt=", sqrt);
